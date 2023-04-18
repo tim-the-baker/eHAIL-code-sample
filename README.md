@@ -5,9 +5,9 @@ For my Ph.D. I study stochastic circuits and their ability to implement algorith
 The code will probably not execute because it may try to access files stored only on my system, but this `README` will explain the code and give insight into my coding experience.
 
 ### Recommended code files:
-- `exp19_nonpow2_weighted_adders.py` for example of data management, simulation workflow and data vizualization.
-- `helpers/binarized_modules.py` and/or `models03_updated_FMNIST.py` for example of PyTorch profeciency.
-- `SCython/SNG_torch/RNS.py` for example of object-oriented design and documentation.
+- `exp19_nonpow2_weighted_adders.py` for examples of data management, simulation workflow and data vizualization.
+- `helpers/binarized_modules.py` and/or `models03_updated_FMNIST.py` for examples of PyTorch profeciency.
+- `SCython/SNG_torch/RNS.py` for examples of object-oriented design and documentation.
 
 ### Why this code
 I chose this code for a few reasons:
