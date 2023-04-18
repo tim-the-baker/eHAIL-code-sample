@@ -1,0 +1,36 @@
+[    INFO]:  @@@ generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[    INFO]:  @@@ generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[    INFO]:  @@@ generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[    INFO]:  @@@ generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[ WARNING]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[ WARNING]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[ WARNING]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[ WARNING]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:Comparator when using precision=10 and bipolar=True
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=False
+[    INFO]:  generatation_test passed with rns:VDC and pcc:WBG when using precision=10 and bipolar=True
+[    INFO]:  generation_test passed with rns:VDC and pcc:Comparator when using precision=10, bipolar=False and dimensions=1
+[    INFO]:  generation_test passed with rns:VDC and pcc:Comparator when using precision=10, bipolar=True and dimensions=1
+[    INFO]:  generation_test passed with rns:VDC and pcc:WBG when using precision=10, bipolar=False and dimensions=1
+[    INFO]:  generation_test passed with rns:VDC and pcc:WBG when using precision=10, bipolar=True and dimensions=1
